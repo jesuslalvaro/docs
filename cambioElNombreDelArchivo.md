@@ -3,4 +3,4 @@
 Enter Text in Markdown format.
 
 El editor mola bastante y es muy interesante que sincronize correctamente con github
-Lo que no consigo crear documetos nuevos
+Lo que no consigo crear documentos nuevos
